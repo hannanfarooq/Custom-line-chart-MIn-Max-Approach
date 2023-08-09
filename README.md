@@ -1,2 +1,2 @@
-# Custom-line-chart-MIn-Max-Approach
+# Custom-line-chart-Min-Max-Approach
 abc
